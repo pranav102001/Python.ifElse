@@ -12,8 +12,7 @@ c = 7
 def the_flying_circus():
     if (a+b >7 and a <7):    # Start coding here!
         return True
-    elif (a+b < 7 and b < 7):
+    else:
         return False
-    else: 
-    		return False
+    		
     	
